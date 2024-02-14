@@ -1,2 +1,2 @@
 # datatstructures-in-C
-Datastructures built in C for multiple computer science classses at the University of Amsterdam
+Datastructures built in C for the "Datastructures" class at the University of Amsterdam
