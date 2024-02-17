@@ -1,11 +1,8 @@
 /*
- Name: Marouan Bellari
- SSID: 14675218
-
- Manages a  heap-based priority queue, with functions for initialisation,
-  popping, insertion etc. It also uses a dynamically sized array and custom
-  compare function.
-*/
+ * Manages a  heap-based priority queue, with functions for initialisation,
+ * popping, insertion etc. It also uses a dynamically sized array and custom
+ * compare function.
+ */
 
 #include <math.h>
 #include <stdio.h>
