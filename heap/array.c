@@ -1,9 +1,6 @@
 /*
- Name: Marouan Bellari
- SSID: 14675218
-
- Implements a dynamic array structure.
-*/
+ * Implements a dynamic array structure.
+ */
 
 #include <stdlib.h>
 
