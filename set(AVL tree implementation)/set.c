@@ -1,11 +1,8 @@
 /*
- Name: Marouan Bellari
- SSID: 14675218
-
- This file implements a set based on a BST (or AVL) tree, it handles initializiation,
- cleanup, printing the values of the set to stdout, adding "nodes" and removing
- them.
-*/
+ * This file implements a set based on a BST (or AVL) tree, it handles initializiation,
+ * cleanup, printing the values of the set to stdout, adding "nodes" and removing
+ * them.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
