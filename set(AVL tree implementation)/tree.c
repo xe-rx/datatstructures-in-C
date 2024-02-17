@@ -1,11 +1,8 @@
 /*
- Name: Marouan Bellari
- SSID: 14675218
-
- This file implements a BST and AVL tree based on the turbo value in the tree
- struct. It handles initializing the tree, adding nodes and deleting them while
- keeping the AVL properties in check through balancing.
-*/
+ * This file implements a BST and AVL tree based on the turbo value in the tree
+ * struct. It handles initializing the tree, adding nodes and deleting them while
+ * keeping the AVL properties in check through balancing.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
